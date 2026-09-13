@@ -1,0 +1,191 @@
+Timestamp: 2026-09-13 14:00:45
+Account Number: 2026
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Timestamp: 2026-09-13 14:00:49
+Account Number: 2026
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Withdraw
+Timestamp: 2026-09-13 14:04:23
+Account Number: 2026
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Timestamp: 2026-09-13 14:10:53
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱200.00
+Balance After: ₱5200.00
+
+Timestamp: 2026-09-13 14:10:59
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱200.00
+Balance After: ₱5000.00
+
+Timestamp: 2026-09-13 14:36:40
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱200.00
+Balance After: ₱5200.00
+
+Timestamp: 2026-09-13 14:36:40
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱200.00
+Balance After: ₱5400.00
+
+Timestamp: 2026-09-13 14:36:45
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱100.00
+Balance After: ₱5300.00
+
+Timestamp: 2026-09-13 16:31:13
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱200.00
+Balance After: ₱5100.00
+
+Timestamp: 2026-09-13 16:31:17
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱200.00
+Balance After: ₱5300.00
+
+Timestamp: 2026-09-13 17:08:42
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Bill Payment - Electricity
+Amount: ₱400.00
+Balance After: ₱4900.00
+
+Timestamp: 2026-09-13 17:13:31
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Bill Payment - Tuition
+Amount: ₱500.00
+Balance After: ₱4400.00
+
+Timestamp: 2026-09-13 18:07:47
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱400.00
+Balance After: ₱4800.00
+
+Timestamp: 2026-09-13 18:08:01
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱200.00
+Balance After: ₱4600.00
+
+Timestamp: 2026-09-13 18:09:17
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Bill Payment - Internet
+Amount: ₱400.00
+Balance After: ₱4200.00
+
+Timestamp: 2026-09-13 18:10:34
+Account Number: 7890
+Account: Sigma
+Account Type: Student Account
+Transaction: Deposit
+Amount: ₱300.00
+Balance After: ₱600.00
+
+Timestamp: 2026-09-13 18:10:37
+Account Number: 7890
+Account: Sigma
+Account Type: Student Account
+Transaction: Withdraw
+Amount: ₱200.00
+Balance After: ₱400.00
+
+Timestamp: 2026-09-13 18:10:37
+Account Number: 7890
+Account: Sigma
+Account Type: Student Account
+Transaction: Withdraw
+Amount: ₱200.00
+Balance After: ₱200.00
+
+Timestamp: 2026-09-13 18:12:25
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱200.00
+Balance After: ₱4400.00
+
+Timestamp: 2026-09-13 18:12:27
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱400.00
+Balance After: ₱4800.00
+
+Timestamp: 2026-09-13 18:12:37
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱100.00
+Balance After: ₱4700.00
+
+Timestamp: 2026-09-13 18:13:48
+Account Number: 2007
+Account: Mary Julia Gabrielle E. Postanes
+Account Type: Savings Account
+Transaction: Bill Payment - Tuition
+Amount: ₱500.00
+Balance After: ₱4200.00
+
+Timestamp: 2026-09-13 18:15:17
+Account Number: 20000
+Account: Walten Sigma
+Account Type: Student Account
+Transaction: Deposit
+Amount: ₱400.00
+Balance After: ₱10400.00
+
+Timestamp: 2026-09-13 18:15:21
+Account Number: 20000
+Account: Walten Sigma
+Account Type: Student Account
+Transaction: Withdraw
+Amount: ₱200.00
+Balance After: ₱10200.00
+
+Timestamp: 2026-09-13 18:15:46
+Account Number: 20000
+Account: Walten Sigma
+Account Type: Student Account
+Transaction: Bill Payment - Internet
+Amount: ₱500.00
+Balance After: ₱9700.00
+

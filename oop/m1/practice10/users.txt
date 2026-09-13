@@ -1,0 +1,36 @@
+Account Number: 2007
+Account Name: Mary Julia Gabrielle E. Postanes
+PIN: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+Account Type: Savings Account
+Balance: 4200.00
+
+Account Number: 2026
+Account Name: Mary Julia Gabrielle E. Postanes
+PIN: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+Account Type: Savings Account
+Balance: 5300.00
+
+Account Number: 7890
+Account Name: Sigma
+PIN: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+Account Type: Student Account
+Balance: 200.00
+
+Account Number: 2345
+Account Name: Walten Sigma
+PIN: 38083c7ee9121e17401883566a148aa5c2e2d55dc53bc4a94a026517dbff3c6b
+Account Type: Student Account
+Balance: 10000.00
+
+Account Number: 4567
+Account Name: Walten Sigma
+PIN: 38083c7ee9121e17401883566a148aa5c2e2d55dc53bc4a94a026517dbff3c6b
+Account Type: Student Account
+Balance: 10000.00
+
+Account Number: 20000
+Account Name: Walten Sigma
+PIN: 38083c7ee9121e17401883566a148aa5c2e2d55dc53bc4a94a026517dbff3c6b
+Account Type: Student Account
+Balance: 9700.00
+

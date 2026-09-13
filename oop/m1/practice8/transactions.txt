@@ -1,0 +1,6 @@
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱1000.00
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱6700.00

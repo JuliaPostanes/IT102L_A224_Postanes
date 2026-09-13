@@ -1,0 +1,40 @@
+Timestamp: 2026-09-10 19:41:02
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱1000.00
+
+Timestamp: 2026-09-10 19:41:42
+Account: Juan Dela Cruz
+Transaction: Withdraw
+Amount: ₱2000.00
+
+Timestamp: 2026-09-10 19:42:48
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱2500.00
+
+Timestamp: 2026-09-10 19:48:30
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱400.00
+
+Timestamp: 2026-09-10 19:48:36
+Account: Juan Dela Cruz
+Transaction: Withdraw
+Amount: ₱300.00
+
+Timestamp: 2026-09-10 19:51:33
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱1000.00
+
+Timestamp: 2026-09-10 19:52:16
+Account: Juan Dela Cruz
+Transaction: Withdraw
+Amount: ₱2000.00
+
+Timestamp: 2026-09-10 19:53:32
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱2500.00
+
